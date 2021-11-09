@@ -1,3 +1,3 @@
 # NanoNets Documentation
 
-https://docs.nanonets.com
+https://nanonets.com/documentation
