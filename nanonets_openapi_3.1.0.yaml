@@ -1,14 +1,24 @@
 openapi: 3.1.0
 info:
     title: NanoNets
-    description: NanoNets' API Reference.
+    description: |
+        Welcome to [NanoNets](https://nanonets.com)' API Reference!
+        <br />
+        <br />
+        <br />
+        Want to quickly test our API? Try it out on Postman.
+        <br />
+        <br />
+        <a href="https://www.postman.com/run-collection/2fcb1195d85e7a98ad74" rel="noreferrer" target="_blank">
+          <img src="https://run.pstmn.io/button.svg" alt="Run in Postman" />
+        </a>
     contact:
         name: NanoNets Support
         url: "https://nanonets.com"
         email: support@nanonets.com
     license:
         name: MIT
-        url: "https://mit-license.org"
+        url: "https://github.com/NanoNets/api-docs/blob/main/LICENSE"
     version: 2.0.0
     x-logo:
         url: "https://nanonets.com/logo2.png"
