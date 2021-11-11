@@ -6,12 +6,16 @@ info:
         <br />
         <br />
         <br />
-        Want to quickly test our API? Try it out on Postman.
+        Use Postman to quickly test the API.
         <br />
         <br />
         <a href="https://www.postman.com/run-collection/2fcb1195d85e7a98ad74" rel="noreferrer" target="_blank">
           <img src="https://run.pstmn.io/button.svg" alt="Run in Postman" />
         </a>
+        <br />
+        <br />
+        <br />
+        [Get an API Key](https://app.nanonets.com/#/keys)
     contact:
         name: NanoNets Support
         url: "https://nanonets.com"
@@ -3186,10 +3190,8 @@ components:
                 - For the `base64_string`, please encode the string `<username>:<password>` using the [Base64 Encoding Scheme](https://developer.mozilla.org/en-US/docs/Glossary/Base64).
                   - The `username` is the API Key. ([Get an API Key](https://app.nanonets.com/#/keys))
                   - For the `password`
-                    - **For the 'Try it' console**: A random string. Eg: `testPassword`
-                    - **For API requests**:
-                      - There is no password, please leave it blank.
-                      - So the `<username>:<password>` format is `<api_key>:`, which needs to be Base64 encoded to get the `base64_string`.
+                    - There is no password, please leave it blank.
+                    - So the `<username>:<password>` format is `<api_key>:`, which needs to be Base64 encoded to get the `base64_string`.
                         
                         **NOTE**: the colon (`:`) after the API key in `<api_key>:` needs to be Base64 encoded as well.
 
