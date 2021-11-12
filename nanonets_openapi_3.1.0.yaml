@@ -16,6 +16,19 @@ info:
         <br />
         <br />
         [Get an API Key](https://app.nanonets.com/#/keys)
+
+        # SDKs
+
+        We have Node.js SDKs that can be used to make predictions after [creating and training models on our web app](https://app.nanonets.com).
+
+        - Optical Character Recognition
+          - [NPM Package](https://www.npmjs.com/package/@nanonets/optical-character-recognition)
+          - NPM: `npm install @nanonets/optical-character-recognition`
+          - Yarn: `yarn add @nanonets/optical-character-recognition`
+        - Image Classification
+          - [NPM Package](https://www.npmjs.com/package/@nanonets/image-classification)
+          - NPM: `npm install @nanonets/image-classification`
+          - Yarn: `yarn add @nanonets/image-classification`
     contact:
         name: NanoNets Support
         url: "https://nanonets.com"
